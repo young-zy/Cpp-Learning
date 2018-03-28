@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xlocale": "cpp"
     },
     "files.encoding": "gb2312",
     "files.autoGuessEncoding": true
