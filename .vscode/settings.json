@@ -4,5 +4,6 @@
         "xlocale": "cpp"
     },
     "files.encoding": "gb2312",
-    "files.autoGuessEncoding": true
+    "files.autoGuessEncoding": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }
