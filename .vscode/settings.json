@@ -1,7 +1,12 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "xstring": "cpp"
     },
     "files.encoding": "gb2312",
     "files.autoGuessEncoding": true,
