@@ -6,7 +6,9 @@
         "sstream": "cpp",
         "random": "cpp",
         "string": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "xiosbase": "cpp",
+        "ostream": "cpp"
     },
     "files.encoding": "gb2312",
     "files.autoGuessEncoding": true,
