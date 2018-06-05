@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"xlocale": "cpp",
+			"regex": "cpp",
+			"sstream": "cpp",
+			"random": "cpp",
+			"string": "cpp",
+			"xstring": "cpp",
+			"xiosbase": "cpp",
+			"ostream": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
